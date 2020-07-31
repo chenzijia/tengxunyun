@@ -1,6 +1,6 @@
 
 client
-
+dsfsdsdfsdfsdfsdfsdfsdf
 # Use the same setting as you are using on
 # the server.
 # On most systems, the VPN will not function
@@ -12,7 +12,7 @@ dev tun
 # Windows needs the TAP-Win32 adapter name
 # from the Network Connections panel
 # if you have more than one.  On XP SP2,
-# you may need to disable the firewall
+# you may need to disable the firewallsdfsdfsdfdfsdfsd
 # for the TAP adapter.
 ;dev-node MyTap
 
